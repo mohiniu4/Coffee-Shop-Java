@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The **CoffeeShop Application** is a Java-based console program that simulates a customizable coffee ordering system. It demonstrates the **Decorator Design Pattern** by allowing users to start with a base coffee (Americano, Cappuccino, Espresso) and dynamically add enhancements like Milk, Caramel, and Syrup—each affecting the final price and description.
+The **CoffeeShop Application** is a Java-based console program that simulates a customizable coffee ordering system. It demonstrates the **Decorator Design Pattern** by allowing users to start with a base coffee (Americano, Cappuccino, Espresso) and dynamically add enhancements like Milk, Caramel, and Syrup, each affecting the final price and description.
 
 This project is ideal for understanding:
 - Object-Oriented Programming (OOP) principles
